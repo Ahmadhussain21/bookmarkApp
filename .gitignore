@@ -37,4 +37,5 @@ xx
 !.vscode/extensions.json
 
 #Environment variables
+.env
 
