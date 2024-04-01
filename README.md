@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is a bookmarkApp made using nest.js as backend and typscript as a language.
 
 ## Installation
 
